@@ -136,7 +136,7 @@ Explanation: What are we doing, where are we going?
 **2.Cross-functional requirements**
  
  - [ ] Operational quality. Quality observed during system operation, such as security and ease of use
- - [ ] Evolution quality. Software system structure and quality related to the development process, such as software testability, maintainability, scalability, scalability, etc.
+ - [ ] Evolution quality. Software system structure and quality related to the development process, such as software testability, maintainability, scalability, etc.
 
 ## 中文（Chinese）
 
